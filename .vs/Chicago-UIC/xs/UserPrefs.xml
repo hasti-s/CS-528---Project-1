@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6BFFB429-B781-D6A4-39BD-23B95F76209C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/honk.cs">
+    <Files>
+      <File FileName="Assets/module-omicron/CAVE2/Scripts/Updaters/CAVE2WandVisualUpdater.cs" Line="1" Column="1" />
+      <File FileName="Assets/module-omicron/CAVE2/Scripts/Navigation/CAVE2WandNavigator.cs" Line="465" Column="14" />
+      <File FileName="Assets/module-omicron/CAVE2/Scripts/Util/CAVE2PlayerControllerID.cs" Line="1" Column="1" />
+      <File FileName="Assets/module-omicron/CAVE2/Scripts/UI/Omegalib-Style Menu/OMenu.cs" Line="210" Column="23" />
+      <File FileName="Assets/registerationVoice.cs" Line="41" Column="5" />
+      <File FileName="Assets/honk.cs" Line="300" Column="1" />
+      <File FileName="Assets/module-omicron/CAVE2/Scripts/Examples/GrabbableObject.cs" Line="299" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
